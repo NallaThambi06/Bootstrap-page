@@ -1,0 +1,13 @@
+
+.bg-img{
+    background-image: url(https://images.pexels.com/photos/123335/pexels-photo-123335.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2);
+    background-size:cover;
+    height:650px;
+    background-repeat: no-repeat;
+    border:1px solid black;
+}
+#card-img1{
+    width:60%;
+    border-radius:100%;
+    margin-left:19%;
+}
